@@ -26,8 +26,8 @@ pagination:
   next_page: 'Newer'
   previous_page: 'Older'
 
-sharing_button_prompt: 'Feel free to share!'
+sharing_button_prompt: 'Spread the love'
 
-related_posts: 'You may also enjoy...'
+related_posts: 'Get inspired'
 
 post_date_prefix: 'Written on'
