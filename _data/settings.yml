@@ -7,7 +7,7 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'About the Artist',   url: 'about'}
+- {name: 'About the Artist',   url: 'about-the-artist'}
 - {name: 'Gallery',            url: 'gallery'}
 - {name: 'Process overview',   url: 'process-overview'}
 - {name: 'Your peace of mind', url: 'your-peace-of-mind'}
